@@ -1,6 +1,6 @@
-/***********************************************************************
-*  This is GUIComponent interface which can be used for any GUI        *
-*  component that has a desirable position and size on screen.         *
+/************************************************************************
+*  This is GUIComponent interface which can be used for any GUI         *
+*  component that has a desirable position and size on screen.          *
 ************************************************************************/
 
 public interface GUIComponent
