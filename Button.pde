@@ -3,7 +3,7 @@
 *  This has the required functionalities of a rectangluar button with adjustable size and position.*
 *  And, an ActionListener is required to be added to this Button object for proper event handling. *
 ****************************************************************************************************/
-public class Button implements GUIComponent, componentClickable
+public class Button implements GUIComponent, ComponentClickable
 {
   /* Horizontal x and vertical y position
      width and height of the Button
