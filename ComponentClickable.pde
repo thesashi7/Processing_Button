@@ -1,6 +1,6 @@
-/***********************************************************************
-*  This is componentClickable interface which can be used for any GUI  *
-*  component that can be clicked by the user.                          *
+/************************************************************************
+*  This is componentClickable interface which can be used for any GUI   *
+*  component that can be clicked by the user.                           *
 ************************************************************************/
 public interface ComponentClickable
 {
