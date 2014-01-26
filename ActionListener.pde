@@ -1,6 +1,6 @@
-/***********************************************************************
-* This is an interface ActionListener which can be implemented to make *
-* an event handler for GUI components like Buttons.                    *
+/************************************************************************
+* This is an interface ActionListener which can be implemented to make  *
+* an event handler for GUI components like Buttons.                     *
 ************************************************************************/
 public interface ActionListener
 {
