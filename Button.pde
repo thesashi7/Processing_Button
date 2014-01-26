@@ -1,7 +1,7 @@
-/***************************************************************************************************
-*  This is a Button class which implements GUIComponent and componentClickable interface.          *
-*  This has the required functionalities of a rectangluar button with adjustable size and position.*
-*  And, an ActionListener is required to be added to this Button object for proper event handling. *
+/****************************************************************************************************
+*  This is a Button class which implements GUIComponent and componentClickable interface.           *
+*  This has the required functionalities of a rectangluar button with adjustable size and position. *
+*  And, an ActionListener is required to be added to this Button object for proper event handling.  *
 ****************************************************************************************************/
 public class Button implements GUIComponent, ComponentClickable
 {
